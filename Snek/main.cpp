@@ -102,8 +102,6 @@ public:
 
 	}
 
-	//Test this is a test
-
 	void controlCallback(int direction)
 
 	{
@@ -223,14 +221,6 @@ int main()
 	{
 
 		exit(EXIT_FAILURE);
-
-	}
-
-	else
-
-	{
-
-
 
 	}
 
