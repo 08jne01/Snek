@@ -39,14 +39,14 @@ public:
 
 
 	}
-
+	
 	void update()
 
 	{
 
 
 
-		if (framesPassed < 5)
+		if (framesPassed < 7)
 
 		{
 
@@ -101,6 +101,8 @@ public:
 	
 
 	}
+
+	//Test this is a test
 
 	void controlCallback(int direction)
 
@@ -221,6 +223,14 @@ int main()
 	{
 
 		exit(EXIT_FAILURE);
+
+	}
+
+	else
+
+	{
+
+
 
 	}
 
